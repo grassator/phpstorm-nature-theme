@@ -1,6 +1,14 @@
-# Nature Theme for JetBrains PHPStorm 2
+# Nature Theme for JetBrains PHPStorm
 
-It’s a very light and pleasant theme based on TextMate's Dawn theme. It supports all default languages in PhpStorm 2.1 plus CoffeeScript.
+It’s a very light and pleasant theme based on TextMate's Dawn theme.
+
+## Language support
+
+* HTML / XML
+* CSS
+* PHP
+* JavaScript
+* CoffeeScript
 
 ## Installation
-On Mac put `phpstorm-nature-theme.xml` in ``~/Library/Preferences/WebIDE10/colors/`, restart PHPStorm and choose it in application Preferences. Locations for other systems can be found [in the official documentation](http://devnet.jetbrains.net/docs/DOC-181).
+To install on Mac put `phpstorm-nature-theme.xml` in `~/Library/Preferences/WebIDE40/colors/`, restart PHPStorm and choose it in application Preferences. On Windows® the path is `%UserProfile%\.WebIde40\config\colors`. You need to replace `40` with your PhpStorm version. Restart PhpStorm it is running and theme will be available under
